@@ -1,0 +1,10 @@
+body {
+    
+    margin: 0 auto;
+    max-width: 50em;
+    font-family: "Helvetica", "Arial", "sans-serif";
+    line-height: 1.5;
+    /* The ruel below will apply 4em of padding to the top and bottom, and 1em of padding to the left and right of the box. */
+    padding:  4em 1em;
+    color: #555;
+}
