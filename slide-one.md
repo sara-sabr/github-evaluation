@@ -46,6 +46,7 @@ In the next slides we will discuss which course are meant for each member and wh
 
 
 
+
 ## Learning Paths: All Members
 
 The following course should be taken by all members. 
