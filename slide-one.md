@@ -82,6 +82,6 @@ The following course should be taken by all team researchers.
 
 1. Git handbok and Markdowns are invaluables tools when working with Git and GitHub
 2. A how to plan in deploying your project
-3. GitHub Pages'course will demontrate how to easily host your project on GitHub 
+3. Will demontrate how to easily host your project on GitHub 
 4. Managing merge conflicts is *important* when working on the same file on two different branches
 5. How to manage vulnerable dependencies and prevent exposing sensitive data
