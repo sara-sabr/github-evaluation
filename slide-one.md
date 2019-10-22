@@ -36,7 +36,7 @@ The second learning path **First week on GitHub** is more indept and takes 2.0 h
   - managing merge conflicts
   - reviewing pull requests 
   - securing your workflows
-  
+
 
 
 ## Learning Paths
