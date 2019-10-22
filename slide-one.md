@@ -45,6 +45,7 @@ The goal of this evaluation is to prioritize the courses that are compatible wit
 In the next slides we will discuss which course are meant for each member and why.
 
 
+
 ## Learning Paths: All Members
 
 The following course should be taken by all members. 
