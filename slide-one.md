@@ -20,7 +20,7 @@ GitHub's Learning Lab provides two main introductory course to understand the wo
 Each section requires the team member to read about the topic at hand and complete a task.
 
 
-## First Course
+### First Course
 
 The entire **First day of GitHub** learning path takes approximately 1.5 hours to complete. Teaches basics of GitHub such as:
   - commits
@@ -29,7 +29,7 @@ The entire **First day of GitHub** learning path takes approximately 1.5 hours t
   - pull requests
 
 
-## Second Course
+### Second Course
 
 The second learning path **First week on GitHub** is more indept and takes 2.0 hours to complete. Teaches complex concepts such as :
   - github pages
@@ -47,7 +47,7 @@ In the next slides we will discuss which course are meant for each member and wh
 
 
 
-## Learning Paths: All Members
+### All Members
 
 The following course should be taken by all members. 
   - What is GitHub? (video) 
@@ -57,8 +57,28 @@ The following course should be taken by all members.
 Note: First two items are found in **First day of GitHub** Learning Path; last item is found in **First Week on GitHub** Learning Path
 
 
-## Why 
+### Why
+
 The videos give a clear overview of GitHub and GitHub pages. 
 The course is a explanation and walkthrough on GitHub basic concepts which is crucial in using GitHub
  
 
+
+### Team Researchers
+
+The following course should be taken by all team researchers. 
+  - Git handbook
+  - Communicating using Markdowns
+  - Uploading your project to GitHub 
+  - GitHub Pages
+  - Managing merge conflicts
+  - Securing your workflows
+  
+
+### Why
+
+Git handbok and communicating using Markdowns are invaluables tools when working with Git and GitHub especially for those writing code
+Uploading your porjects to Github details how to plan in deploying your project
+GitHub Pages'course will explain and demontrate how to easily host your project on GitHub 
+Managing merge conflicts *important* concept to master when working on the same file on two different branches
+Securing your workflows teaches how keep dabs on vulnerable or deprecated dependencies and prevent exposing sensitive data
