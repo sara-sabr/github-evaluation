@@ -43,7 +43,7 @@ The second learning path **First week on GitHub** is more indept and takes 2.0 h
   
 The goal of this evaluation is to prioritize the courses that are compatible with each team member's role. 
 In the next slides we will discuss which course are meant for each member and why.
- 
+
 
 ## Learning Paths: All Members
 
