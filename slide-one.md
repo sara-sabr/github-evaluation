@@ -22,7 +22,7 @@ Each section requires the team member to read about the topic at hand and comple
 
 ## First Course
 
-The entire **First day of GitHub** course takes approximately 1.5 hours to complete. Fundamentals of GitHub such as:
+The entire **First day of GitHub** learning path takes approximately 1.5 hours to complete. Teaches basics of GitHub such as:
   - commits
   - branching
   - issues
@@ -31,8 +31,33 @@ The entire **First day of GitHub** course takes approximately 1.5 hours to compl
 
 ## Second Course
 
-The second course **First week on GitHub** is more indept and takes 2.0 hours to complete. More indept concepts such as :
+The second learning path **First week on GitHub** is more indept and takes 2.0 hours to complete. Teaches complex concepts such as :
   - github pages
   - managing merge conflicts
   - reviewing pull requests 
   - securing your workflows
+  
+  
+  
+## Learning Paths
+  
+The goal of this evaluation is to prioritize the courses that are compatible with each team member's role. 
+In the next slides we will discuss which course are meant for each member and why.
+ 
+ 
+ 
+ ## Learning Paths: All Members
+ 
+ The following course should be taken by all members. 
+  - What is GitHub? (video) 
+  - Introduction to GitHub course
+  - Discover GitHub Pages (video)
+  
+Note: First two items are found in **First day of GitHub** Learning Path; last item is found in **First Week on GitHub** Learning Path
+
+
+## Why 
+The videos give a clear overview of GitHub and GitHub pages. 
+The course is a explanation and walkthrough on GitHub basic concepts which is crucial in using GitHub
+ 
+
