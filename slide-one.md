@@ -71,7 +71,7 @@ Note: First two items are found in **First day of GitHub** Learning Path; last i
 The following course should be taken by all team researchers. 
   - Git handbook
   - Communicating using Markdowns
-  - Uploading your project to GitHub 
+  - Uploading your project to GitHub
   - GitHub Pages
   - Managing merge conflicts
   - Securing your workflows
@@ -80,8 +80,8 @@ The following course should be taken by all team researchers.
 
 ### Why
 
-1. Git handbok and communicating using Markdowns are invaluables tools when working with Git and GitHub
-2. Uploading your porjects a how to plan in deploying your project
-3. GitHub Pages'course will explain and demontrate how to easily host your project on GitHub 
+1. Git handbok and Markdowns are invaluables tools when working with Git and GitHub
+2. A how to plan in deploying your project
+3. GitHub Pages'course will demontrate how to easily host your project on GitHub 
 4. Managing merge conflicts is *important* when working on the same file on two different branches
-5. Securing your workflows is how to manage vulnerable dependencies and prevent exposing sensitive data
+5. How to manage vulnerable dependencies and prevent exposing sensitive data
