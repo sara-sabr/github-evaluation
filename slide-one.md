@@ -77,6 +77,7 @@ The following course should be taken by all team researchers.
   - Securing your workflows
   
 
+
 ### Why
 
 1. Git handbok and communicating using Markdowns are invaluables tools when working with Git and GitHub especially for those writing code
