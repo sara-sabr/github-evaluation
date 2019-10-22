@@ -65,6 +65,7 @@ Note: First two items are found in **First day of GitHub** Learning Path; last i
 
 
 
+
 ### Team Researchers
 
 The following course should be taken by all team researchers. 
