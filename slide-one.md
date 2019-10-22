@@ -75,8 +75,7 @@ The following course should be taken by all team researchers.
   - GitHub Pages
   - Managing merge conflicts
   - Securing your workflows
-
-
+  
 
 ### Why
 
