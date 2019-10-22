@@ -29,7 +29,7 @@ The entire **First day of GitHub** course takes approximately 1.5 hours to compl
   - pull requests
 
 
-## Secound Course
+## Second Course
 
 The second course **First week on GitHub** is more indept and takes 2.0 hours to complete. More indept concepts such as :
   - github pages
