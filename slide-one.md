@@ -80,8 +80,8 @@ The following course should be taken by all team researchers.
 
 ### Why
 
-1. Git handbok and communicating using Markdowns are invaluables tools when working with Git and GitHub especially for those writing code
-2. Uploading your porjects to Github details how to plan in deploying your project
+1. Git handbok and communicating using Markdowns are invaluables tools when working with Git and GitHub
+2. Uploading your porjects a how to plan in deploying your project
 3. GitHub Pages'course will explain and demontrate how to easily host your project on GitHub 
-4. Managing merge conflicts *important* concept to master when working on the same file on two different branches
-5. Securing your workflows teaches how keep dabs on vulnerable or deprecated dependencies and prevent exposing sensitive data
+4. Managing merge conflicts is *important* when working on the same file on two different branches
+5. Securing your workflows is how to manage vulnerable dependencies and prevent exposing sensitive data
