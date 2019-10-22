@@ -59,9 +59,10 @@ Note: First two items are found in **First day of GitHub** Learning Path; last i
 
 ### Why
 
-The videos give a clear overview of GitHub and GitHub pages. 
-The course is a explanation and walkthrough on GitHub basic concepts which is crucial in using GitHub
+1. The videos give a clear overview of GitHub and GitHub pages. 
+2. The course is a explanation and walkthrough on GitHub basic concepts which is crucial in using GitHub
  
+
 
 
 ### Team Researchers
@@ -77,8 +78,8 @@ The following course should be taken by all team researchers.
 
 ### Why
 
-Git handbok and communicating using Markdowns are invaluables tools when working with Git and GitHub especially for those writing code
-Uploading your porjects to Github details how to plan in deploying your project
-GitHub Pages'course will explain and demontrate how to easily host your project on GitHub 
-Managing merge conflicts *important* concept to master when working on the same file on two different branches
-Securing your workflows teaches how keep dabs on vulnerable or deprecated dependencies and prevent exposing sensitive data
+1. Git handbok and communicating using Markdowns are invaluables tools when working with Git and GitHub especially for those writing code
+2. Uploading your porjects to Github details how to plan in deploying your project
+3. GitHub Pages'course will explain and demontrate how to easily host your project on GitHub 
+4. Managing merge conflicts *important* concept to master when working on the same file on two different branches
+5. Securing your workflows teaches how keep dabs on vulnerable or deprecated dependencies and prevent exposing sensitive data
