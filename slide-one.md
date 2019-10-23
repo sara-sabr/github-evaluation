@@ -85,3 +85,26 @@ The following course should be taken by all team researchers.
 3. Will demontrate how to easily host your project on GitHub 
 4. Managing merge conflicts is *important* when working on the same file on two different branches
 5. How to manage vulnerable dependencies and prevent exposing sensitive data
+
+
+
+
+
+### Team Lead
+
+The following course should be taken by all team researchers.
+  - Git Handbook
+  - Uploading your project to GitHub
+  - Reviewing pull requests
+  - Managing merge conflicts
+  - Securing your workflows
+  
+  
+  
+### Why
+
+1. Git handbok necessary when working with Git and GitHub
+2. A how to plan in deploying your project
+3. Request reviews, review someone's code, respond to reviews and approve pull requests.  
+4. Managing merge conflicts is *important* when working on the same file on two different branches
+5. How to manage vulnerable dependencies and prevent exposing sensitive data
