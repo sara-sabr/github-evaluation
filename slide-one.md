@@ -91,7 +91,7 @@ The following course should be taken by all team researchers.
 
 ### Team Lead
 
-The following course should be taken by all team researchers.
+The following course should be taken by all team leads.
   - Git Handbook
   - Uploading your project to GitHub
   - Reviewing pull requests
@@ -107,3 +107,15 @@ The following course should be taken by all team researchers.
 3. Request reviews, review someone's code, respond to reviews and approve pull requests.  
 4. Managing merge conflicts is *important* when working on the same file on two different branches
 5. How to manage vulnerable dependencies and prevent exposing sensitive data
+
+
+
+
+### Manager
+
+Managers can part-take in the other courses. They're priority should be **reviewing pull requests** course.
+
+
+### Why
+
+1. In order to request reviews, review someone's code, respond to reviews and approve pull requests.
