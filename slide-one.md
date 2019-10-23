@@ -119,3 +119,19 @@ Managers can part-take in the other courses. They're priority should be the **re
 ### Why
 
 For quality insurance, and have an overview of the project. Along with requesting reviews, reviewing someone's code, responding to reviews and approving pull requests.
+
+
+
+
+## CI/CD
+
+GitHub training lab provides a course, which is not in the learning path on [Continuous Integration (CI) and Continuous Deployment (CD)](https://lab.github.com/githubtraining/continuous-integration-with-travis-ci)
+This course helps setup tool to ensure quality software development. 
+
+
+## Who would this course benefit
+This course would benefit the team researchers and team leads. Since it would help them :
+  - setup CI in their existing repositories
+  - create build and test environments
+  - enables protected branches
+  - automated validations is added to the project
