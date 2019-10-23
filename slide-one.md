@@ -50,9 +50,10 @@ In the next slides we will discuss which course are meant for each member and wh
 ### All Members
 
 The following course should be taken by all members. 
-  - What is GitHub? (video) 
-  - Introduction to GitHub course
-  - Discover GitHub Pages (video)
+  - [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be)(video)<sup>1</sup>
+  - [Discover GitHub Pages](https://www.youtube.com/watch?v=2MsN8gpT6jY&feature=youtu.be)(video)<sup>1</sup>
+  - Introduction to GitHub course<sup>2</sup>
+
   
 Note: First two items are found in **First day of GitHub** Learning Path; last item is found in **First Week on GitHub** Learning Path
 
@@ -60,8 +61,7 @@ Note: First two items are found in **First day of GitHub** Learning Path; last i
 ### Why
 
 1. The videos give a clear overview of GitHub and GitHub pages. 
-2. The course is a explanation and walkthrough on GitHub basic concepts which is crucial in using GitHub
- 
+2. The course is a explanation and walkthrough on GitHub basic concepts.
 
 
 
@@ -69,21 +69,21 @@ Note: First two items are found in **First day of GitHub** Learning Path; last i
 ### Team Researchers
 
 The following course should be taken by all team researchers. 
-  - Git handbook
-  - Communicating using Markdowns
-  - Uploading your project to GitHub
-  - GitHub Pages
-  - Managing merge conflicts
-  - Securing your workflows
+  - Git handbook<sup>1</sup>
+  - Communicating using Markdowns<sup>1</sup>
+  - Uploading your project to GitHub<sup>2</sup>
+  - GitHub Pages<sup>3</sup>
+  - Managing merge conflicts<sup>4</sup>
+  - Securing your workflows<sup>5</sup>
   
 
 
 ### Why
 
-1. Git handbok and Markdowns are invaluables tools when working with Git and GitHub
-2. A how to plan in deploying your project
-3. Will demontrate how to host your project on GitHub 
-4. Managing merge conflicts is *important* when working on the same file on two different branches
+1. Invaluables tools when working with Git and GitHub
+2. A how to plan in deploying your projects
+3. Demontrates how to host your project on GitHub 
+4. Important when working on the same file on two different branches
 5. How to manage vulnerable dependencies and prevent exposing sensitive data
 
 
@@ -92,20 +92,20 @@ The following course should be taken by all team researchers.
 ### Team Lead
 
 The following course should be taken by all team leads.
-  - Git Handbook
-  - Uploading your project to GitHub
-  - Reviewing pull requests
-  - Managing merge conflicts
-  - Securing your workflows
+  - Git Handbook<sup>1</sup>
+  - Uploading your project to GitHub<sup>2</sup>
+  - Reviewing pull requests<sup>3</sup>
+  - Managing merge conflicts<sup>4</sup>
+  - Securing your workflows<sup>5</sup>
 
 
   
 ### Why
 
-1. Git handbok necessary when working with Git and GitHub
+1. Necessary when working with Git and GitHub
 2. A how to plan in deploying your project
 3. Request reviews, review someone's code, respond to reviews and approve pull requests.  
-4. Managing merge conflicts is *important* when working on the same file on two different branches
+4. Important when working on the same file on two different branches
 5. How to manage vulnerable dependencies and prevent exposing sensitive data
 
 
