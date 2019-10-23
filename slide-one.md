@@ -89,7 +89,6 @@ The following course should be taken by all team researchers.
 
 
 
-
 ### Team Lead
 
 The following course should be taken by all team researchers.
@@ -98,8 +97,7 @@ The following course should be taken by all team researchers.
   - Reviewing pull requests
   - Managing merge conflicts
   - Securing your workflows
-  
-  
+
   
 ### Why
 
