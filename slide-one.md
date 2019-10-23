@@ -1,4 +1,4 @@
-# GitHub Training Evaluation
+## GitHub Training Evaluation
 
 This is a review of two learning paths found in [GitHub's Learning Lab](https://lab.github.com/githubtraining/paths).
 
@@ -134,4 +134,4 @@ This course would benefit the team researchers and team leads. Since it would he
   - setup CI in their existing repositories
   - create build and test environments
   - enables protected branches
-  - automated validations is added to the project
+  - automate validations in the project
