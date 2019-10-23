@@ -16,7 +16,7 @@ Note: This will only appear in the speaker notes window.
 
 ## Courses explained
 
-GitHub's Learning Lab provides two main introductory course to understand the workflow process of GitHub.
+GitHub's Learning Lab provides two main introductory courses to understand the workflow process of GitHub.
 Each section requires the team member to read about the topic at hand and complete a task.
 
 
@@ -118,4 +118,4 @@ Managers can part-take in the other courses. They're priority should be the **re
 
 ### Why
 
-In order to request reviews, review someone's code, respond to reviews and approve pull requests.
+For quality insurance, and have an overview of the project. Along with requesting reviews, reviewing someone's code, responding to reviews and approving pull requests.
