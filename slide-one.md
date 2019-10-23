@@ -118,4 +118,4 @@ Managers can part-take in the other courses. They're priority should be the **re
 
 ### Why
 
-1. In order to request reviews, review someone's code, respond to reviews and approve pull requests.
+In order to request reviews, review someone's code, respond to reviews and approve pull requests.
