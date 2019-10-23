@@ -50,8 +50,8 @@ In the next slides we will discuss which course are meant for each member and wh
 ### All Members
 
 The following course should be taken by all members. 
-  - [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be)(video)<sup>1</sup>
-  - [Discover GitHub Pages](https://www.youtube.com/watch?v=2MsN8gpT6jY&feature=youtu.be)(video)<sup>1</sup>
+  - [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) (video)<sup>1</sup>
+  - [Discover GitHub Pages](https://www.youtube.com/watch?v=2MsN8gpT6jY&feature=youtu.be) (video)<sup>1</sup>
   - Introduction to GitHub course<sup>2</sup>
 
   
