@@ -134,4 +134,4 @@ This course would benefit the team researchers and team leads. Since it would he
   - setup CI in their existing repositories
   - create build and test environments
   - enables protected branches
-  - automate validations in the project
+  - automate validations within the project
