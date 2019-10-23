@@ -123,7 +123,7 @@ For quality insurance, and have an overview of the project. Along with requestin
 
 
 
-## Third Course CI/CD
+## CI/CD
 
 GitHub training lab provides a course, which is not in the learning path on [Continuous Integration (CI) and Continuous Deployment (CD)](https://lab.github.com/githubtraining/continuous-integration-with-travis-ci)
 This course helps setup tool to ensure quality software development. 
