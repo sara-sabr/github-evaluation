@@ -113,7 +113,7 @@ The following course should be taken by all team leads.
 
 ### Manager
 
-Managers can part-take in the other courses. They're priority should be **reviewing pull requests** course.
+Managers can part-take in the other courses. They're priority should be the **reviewing pull requests** course.
 
 
 ### Why
