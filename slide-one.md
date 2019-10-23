@@ -31,7 +31,7 @@ The entire **First day of GitHub** learning path takes approximately 1.5 hours t
 
 ### Second Course
 
-The second learning path **First week on GitHub** is more indept and takes 2.0 hours to complete. Teaches complex concepts such as :
+The second learning path **First week on GitHub** is more indept and takes 2 hours to complete. Teaches complex concepts such as :
   - github pages
   - managing merge conflicts
   - reviewing pull requests 
@@ -82,7 +82,7 @@ The following course should be taken by all team researchers.
 
 1. Git handbok and Markdowns are invaluables tools when working with Git and GitHub
 2. A how to plan in deploying your project
-3. Will demontrate how to easily host your project on GitHub 
+3. Will demontrate how to host your project on GitHub 
 4. Managing merge conflicts is *important* when working on the same file on two different branches
 5. How to manage vulnerable dependencies and prevent exposing sensitive data
 
