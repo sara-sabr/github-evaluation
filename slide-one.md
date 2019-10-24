@@ -7,7 +7,7 @@ This is a review of two learning paths found in [GitHub's Learning Lab](https://
 ## Purpose
 
 The following questions will be answered: 
-  - The lenght to complete each course
+  - Time of completetion for each course
   - Specify a set of courses for each team member
   
 Note: This will only appear in the speaker notes window.
