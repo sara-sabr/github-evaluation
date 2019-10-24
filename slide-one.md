@@ -7,8 +7,8 @@ This is a review of two learning paths found in [GitHub's Learning Lab](https://
 ## Purpose
 
 The following questions will be answered: 
-  - How long does each course take
-  - Which course are appropriate for each team member
+  - The lenght to complete each course
+  - Specify a set of courses for each team member
   
 Note: This will only appear in the speaker notes window.
 
