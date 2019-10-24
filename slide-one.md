@@ -7,22 +7,22 @@ This is a review of two learning paths found in [GitHub's Learning Lab](https://
 ## Purpose
 
 The following questions will be answered: 
-  - How long does each course take?
-  - Which parts are appropriate for which roles?
+  - How long does each course take
+  - Which course are appropriate for each team member
   
 Note: This will only appear in the speaker notes window.
 
 
 
-## Courses explained
+## Learning Paths
 
-GitHub's Learning Lab provides two main introductory courses to understand the workflow process of GitHub.
-Each section requires the team member to read about the topic at hand and complete a task.
+GitHub's Learning Lab provides two main paths to understand the workflow process of GitHub.
+Each section requires the team member to read about the topic and complete a task.
 
 
 ### First Course
 
-The entire **First day of GitHub** learning path takes approximately 1.5 hours to complete. Teaches basics of GitHub such as:
+The **First day of GitHub** learning path takes approximately 1.5 hours to complete. Teaches basics of GitHub such as:
   - commits
   - branching
   - issues
@@ -39,17 +39,17 @@ The second learning path **First week on GitHub** is more indept and takes 2 hou
 
 
 
-## Learning Paths
+## Courses explained
   
 The goal of this evaluation is to prioritize the courses that are compatible with each team member's role. 
-In the next slides we will discuss which course are meant for each member and why.
+In the next slides we will discuss which courses are meant for each member and why.
 
 
 
 
 ### All Members
 
-The following course should be taken by all members. 
+The following courses should be taken by all members. 
   - [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) (video)<sup>1</sup>
   - [Discover GitHub Pages](https://www.youtube.com/watch?v=2MsN8gpT6jY&feature=youtu.be) (video)<sup>1</sup>
   - Introduction to GitHub course<sup>2</sup>
@@ -68,7 +68,7 @@ Note: First two items are found in **First day of GitHub** Learning Path; last i
 
 ### Team Researchers
 
-The following course should be taken by all team researchers. 
+The following courses should be taken by all team researchers. 
   - Git handbook<sup>1</sup>
   - Communicating using Markdowns<sup>1</sup>
   - Uploading your project to GitHub<sup>2</sup>
@@ -81,17 +81,17 @@ The following course should be taken by all team researchers.
 ### Why
 
 1. Invaluables tools when working with Git and GitHub
-2. A how to plan in deploying your projects
-3. Demontrates how to host your project on GitHub 
-4. Important when working on the same file on two different branches
-5. How to manage vulnerable dependencies and prevent exposing sensitive data
+2. A plan for deploying your project
+3. Guide to host your project on GitHub 
+4. Avoids branching mistakes between collaborators
+5. Manage vulnerable dependencies and prevent exposing sensitive data
 
 
 
 
 ### Team Lead
 
-The following course should be taken by all team leads.
+The following courses should be taken by all team leads.
   - Git Handbook<sup>1</sup>
   - Uploading your project to GitHub<sup>2</sup>
   - Reviewing pull requests<sup>3</sup>
@@ -103,10 +103,10 @@ The following course should be taken by all team leads.
 ### Why
 
 1. Necessary when working with Git and GitHub
-2. A how to plan in deploying your project
-3. Request reviews, review someone's code, respond to reviews and approve pull requests.  
-4. Important when working on the same file on two different branches
-5. How to manage vulnerable dependencies and prevent exposing sensitive data
+2. A plan for deploying your project
+3. Request reviews, review someone's code and approve pull requests.  
+4. Avoids branching mistakes between collaborators 
+5. Manage vulnerable dependencies and prevent exposing sensitive data
 
 
 
@@ -118,7 +118,7 @@ Managers can part-take in the other courses. They're priority should be the **re
 
 ### Why
 
-For quality insurance, and have an overview of the project. Along with requesting reviews, reviewing someone's code, responding to reviews and approving pull requests.
+For quality insurance, managers could request reviews, review someone's code, respond to reviews and approve pull requests.
 
 
 
@@ -135,3 +135,10 @@ This course would benefit the team researchers and team leads. Since it would he
   - create build and test environments
   - enables protected branches
   - automate validations within the project
+
+
+
+### Summary
+  - The Learning Paths take between 1.5 to 2 hours to complete.
+  - Each team member has a series of courses they should prioritize
+  - CI/CD learning, necessary for projects that require software development
