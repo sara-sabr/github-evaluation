@@ -4,6 +4,19 @@ This is a review of two learning paths found in [GitHub's Learning Lab](https://
 
 
 
+## Purpose
+
+The goal of this evaluation is to match each course to a team member. 
+
+These questions will be answered: 
+  - Time to complete each course
+  - Match courses to each team member
+  
+Note: This will only appear in the speaker notes window.
+
+
+
+
 ## Learning Paths
 
 GitHub's Learning Lab has two paths to teach the workflow process of GitHub.
@@ -25,18 +38,6 @@ The **First day of GitHub** takes 1.5 hours to complete. Teaches basics of GitHu
   - managing merge conflicts
   - reviewing pull requests 
   - securing your workflows
-
-
-
-## Purpose
-
-The goal of this evaluation is to match each course to a team member. 
-
-These questions will be answered: 
-  - Time to complete each course
-  - Match courses to each team member
-  
-Note: This will only appear in the speaker notes window.
 
 
 
