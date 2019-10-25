@@ -31,12 +31,11 @@ The second learning path **First week on GitHub** is more indept and takes 2 hou
 
 ## Purpose
 
-The goal of this evaluation is to prioritize the courses that are compatible with each team member's role. 
-In the next slides we will discuss which courses are meant for each member and why.
+The goal of this evaluation is to match each course to a team member. 
 
 These questions will be answered: 
-  - Time of completetion for each course
-  - Specify a set of courses for each team member
+  - Time to complete each course
+  - Match courses to each team member
   
 Note: This will only appear in the speaker notes window.
 
