@@ -42,7 +42,7 @@ The **First day of GitHub** takes 1.5 hours to complete. Teaches basics of GitHu
 
 
 
-### Team
+### Mandatory Courses
 
 These courses should be taken by all members. 
   - [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) (video)<sup>1</sup>
@@ -70,8 +70,6 @@ Click see which course if meant for each team member
  
 
  
-
-
 ### Team Researchers
 
 Theese courses should be taken by all team researchers. 
