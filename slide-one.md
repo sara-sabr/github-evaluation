@@ -47,7 +47,7 @@ In the next slides we will discuss which courses are meant for each member and w
 
 
 
-### All Members
+### Team
 
 The following courses should be taken by all members. 
   - [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) (video)<sup>1</sup>
