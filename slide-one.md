@@ -7,7 +7,6 @@ This is a review of two learning paths found in [GitHub's Learning Lab](https://
 ## Learning Paths
 
 GitHub's Learning Lab has two paths to teach the workflow process of GitHub.
-Each section requires the team member to read about a topic and complete a task.
 
 
 ### First Course
