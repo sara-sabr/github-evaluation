@@ -4,16 +4,6 @@ This is a review of two learning paths found in [GitHub's Learning Lab](https://
 
 
 
-## Purpose
-
-The following questions will be answered: 
-  - Time of completetion for each course
-  - Specify a set of courses for each team member
-  
-Note: This will only appear in the speaker notes window.
-
-
-
 ## Learning Paths
 
 GitHub's Learning Lab provides two main paths to understand the workflow process of GitHub.
@@ -39,17 +29,23 @@ The second learning path **First week on GitHub** is more indept and takes 2 hou
 
 
 
-## Courses explained
-  
+## Purpose
+
 The goal of this evaluation is to prioritize the courses that are compatible with each team member's role. 
 In the next slides we will discuss which courses are meant for each member and why.
+
+These questions will be answered: 
+  - Time of completetion for each course
+  - Specify a set of courses for each team member
+  
+Note: This will only appear in the speaker notes window.
 
 
 
 
 ### Team
 
-The following courses should be taken by all members. 
+These courses should be taken by all members. 
   - [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) (video)<sup>1</sup>
   - [Discover GitHub Pages](https://www.youtube.com/watch?v=2MsN8gpT6jY&feature=youtu.be) (video)<sup>1</sup>
   - Introduction to GitHub course<sup>2</sup>
@@ -66,9 +62,19 @@ Note: First two items are found in **First day of GitHub** Learning Path; last i
 
 
 
+### Team
+
+Click see which course if meant for each team member
+  - [Researchers](#team-researchers)
+  - [Team Lead](#team-lead)
+  - [Manager](#manager)
+ 
+ 
+ 
+  
 ### Team Researchers
 
-The following courses should be taken by all team researchers. 
+Theese courses should be taken by all team researchers. 
   - Git handbook<sup>1</sup>
   - Communicating using Markdowns<sup>1</sup>
   - Uploading your project to GitHub<sup>2</sup>
@@ -80,18 +86,18 @@ The following courses should be taken by all team researchers.
 
 ### Why
 
-1. Invaluables tools when working with Git and GitHub
-2. A plan for deploying your project
+1. Invaluables tools to work with Git and GitHub
+2. A plan to deploy your project
 3. Guide to host your project on GitHub 
-4. Avoids branching mistakes between collaborators
-5. Manage vulnerable dependencies and prevent exposing sensitive data
+4. Avoids branch mistakes between collaborators
+5. Manage vulnerable dependencies and hide sensitive data
 
 
 
 
 ### Team Lead
 
-The following courses should be taken by all team leads.
+These courses should be taken by all team leads.
   - Git Handbook<sup>1</sup>
   - Uploading your project to GitHub<sup>2</sup>
   - Reviewing pull requests<sup>3</sup>
@@ -102,11 +108,11 @@ The following courses should be taken by all team leads.
   
 ### Why
 
-1. Necessary when working with Git and GitHub
-2. A plan for deploying your project
+1. Necessary to work with Git and GitHub
+2. A plan to deploy your project
 3. Request reviews, review someone's code and approve pull requests.  
-4. Avoids branching mistakes between collaborators 
-5. Manage vulnerable dependencies and prevent exposing sensitive data
+4. Avoids branch mistakes between collaborators 
+5. Manage vulnerable dependencies and hide sensitive data
 
 
 
@@ -141,4 +147,4 @@ This course would benefit the team researchers and team leads. Since it would he
 ### Summary
   - The Learning Paths take between 1.5 to 2 hours to complete.
   - Each team member has a series of courses they should prioritize
-  - CI/CD learning, necessary for projects that require software development
+  - CI/CD learning, necessary for software development projects
