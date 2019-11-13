@@ -107,7 +107,7 @@ This course would benefit the **team researchers** and **team leads**. Since it 
 
 
 
-### Summary
+## Summary
   - The Learning Paths take between 1.5 to 2 hours to complete.
   - Each team member has a series of courses assigned to them
   - CI/CD learning, necessary for software development projects
