@@ -39,9 +39,9 @@ The **First day of GitHub** takes 1.5 hours to complete. Teaches basics of GitHu
 
 
 
-### Team
+## Team
 
-Instead of following a learn path, members should focus on assigned courses.
+Instead of following a learning path, members should focus on assigned courses.
 
 |                    | [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) (video) | [Discover GitHub Pages](https://www.youtube.com/watch?v=2MsN8gpT6jY&feature=youtu.be) (video) | Introduction to GitHub course | Git handbook | Communicating using Markdowns | Uploading your project to GitHub | GitHub Pages | Managing merge conflicts | Securing your workflows | Reviewing pull requests | [Continuous Integration (CI) and Continuous Deployment (CD)](https://lab.github.com/githubtraining/continuous-integration-with-travis-ci) |
 |--------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------|--------------|-------------------------------|----------------------------------|--------------|--------------------------|-------------------------|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
@@ -88,7 +88,7 @@ Will learn:
 
 ### Manager
 
-For quality insurance, managers could request reviews, review someone's code, respond to reviews and approve pull requests.
+For quality insurance, managers will learn how to request reviews, review someone's code, respond to reviews and approve pull requests.
 
 
 
