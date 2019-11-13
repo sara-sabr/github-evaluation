@@ -43,6 +43,9 @@ The **First day of GitHub** takes 1.5 hours to complete. Teaches basics of GitHu
 
 Instead of following a learning path, members should focus on assigned courses.
 
+
+
+
 |                    | [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) (video) | [Discover GitHub Pages](https://www.youtube.com/watch?v=2MsN8gpT6jY&feature=youtu.be) (video) | Introduction to GitHub course | Git handbook | Communicating using Markdowns | Uploading your project to GitHub | GitHub Pages | Managing merge conflicts | Securing your workflows | Reviewing pull requests | [Continuous Integration (CI) and Continuous Deployment (CD)](https://lab.github.com/githubtraining/continuous-integration-with-travis-ci) |
 |--------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------|--------------|-------------------------------|----------------------------------|--------------|--------------------------|-------------------------|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
 | Researchers        | ✔                                                                                       | ✔                                                                                             | ✔                             | ✔            | ✔                             | ✔                                | ✔            | ✔                        | ✔                       |                         | ✔                                                                                                                                         |
@@ -52,6 +55,7 @@ Instead of following a learning path, members should focus on assigned courses.
  
  
  
+
 
 
 ## Assigned Course Breakdown
@@ -100,7 +104,7 @@ GitHub training lab provides a course, which is not in the learning path, on [Co
 This course helps setup the tool to ensure quality software development. 
 
 
-### Who would this course benefit
+### Who should follow this course
 This course would benefit the **team researchers** and **team leads**. Since it would help them :
   - setup CI in their existing repositories
   - create build and test environments
