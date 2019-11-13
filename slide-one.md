@@ -39,7 +39,7 @@ The **First day of GitHub** takes 1.5 hours to complete. Teaches basics of GitHu
 
 
 
-## Team
+## The Team
 
 Instead of following a learning path, members should focus on assigned courses.
 
@@ -54,8 +54,10 @@ Instead of following a learning path, members should focus on assigned courses.
  
 
 
+## Assigned Course Breakdown
+
 ### Mandatory Courses
- 
+
 [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) (video), [Discover GitHub Pages](https://www.youtube.com/watch?v=2MsN8gpT6jY&feature=youtu.be) (video), Introduction to GitHub course should be taken by all members. 
 
 For the following reasons: 
