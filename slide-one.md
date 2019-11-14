@@ -9,7 +9,7 @@ This is a review of GitHub Training from [GitHub's Learning Lab](https://lab.git
 The goal of this evaluation is to match each course to a team member. 
 
 These questions will be answered: 
-  - Time to complete each course
+  - Time to complete each learning path
   - Match course to team member
 
 
