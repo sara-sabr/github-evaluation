@@ -46,7 +46,6 @@ Instead of following a learning path, members should focus on assigned courses.
 
 
 
-
 |                    | [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) (video) | [Discover GitHub Pages](https://www.youtube.com/watch?v=2MsN8gpT6jY&feature=youtu.be) (video) | Introduction to GitHub course | Git handbook | Communicating using Markdowns | Uploading your project to GitHub | GitHub Pages | Managing merge conflicts | Securing your workflows | Reviewing pull requests | [Continuous Integration (CI) and Continuous Deployment (CD)](https://lab.github.com/githubtraining/continuous-integration-with-travis-ci) |
 |--------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|-------------------------------|--------------|-------------------------------|----------------------------------|--------------|--------------------------|-------------------------|-------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|
 | Researchers        | ✔                                                                                       | ✔                                                                                             | ✔                             | ✔            | ✔                             | ✔                                | ✔            | ✔                        | ✔                       |                         | ✔                                                                                                                                         |
@@ -61,9 +60,12 @@ Instead of following a learning path, members should focus on assigned courses.
 
 ## Assigned Course Breakdown
 
+
+
 ### Mandatory Courses
 
 [What is GitHub?](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) (video), [Discover GitHub Pages](https://www.youtube.com/watch?v=2MsN8gpT6jY&feature=youtu.be) (video), Introduction to GitHub course should be taken by all members. 
+
 
 For the following reasons: 
   1. The videos give a clear overview of GitHub and GitHub pages. 
