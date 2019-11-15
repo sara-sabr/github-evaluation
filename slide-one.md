@@ -51,9 +51,9 @@ Instead of following a learning path, members should focus on assigned courses.
 | Technical Advisors | ✔ | ✔ |  ✔ | ✔ |  | ✔ |  | ✔ | ✔ | ✔ | ✔ |
 | Team Lead | ✔ | ✔ | ✔ | ✔ |  | ✔ |  | ✔ | ✔ | ✔ | ✔ |
 | Manager | ✔ | ✔ | ✔ |  |  |  |  |  |  | ✔ | ✔ |
- 
+
 --- 
- 
+
 ## Assigned Course Breakdown
 
 --
@@ -68,7 +68,7 @@ For the following reasons:
   2. The course is a explanation and walkthrough on GitHub basic concepts.
 
 --
- 
+
 ### Team Researchers
 
 Will learn :  
