@@ -51,7 +51,7 @@ Instead of following a learning path, members should focus on assigned courses.
 | Team Lead | ✔ | ✔ | ✔ | ✔ |  | ✔ |  | ✔ | ✔ | ✔ | ✔ |
 | Manager | ✔ | ✔ | ✔ |  |  |  |  |  |  | ✔ | ✔ |
 
----
+--
 
 ## Assigned Course Breakdown
 
