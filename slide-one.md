@@ -100,7 +100,7 @@ For quality insurance, managers will learn how to request reviews, review someon
 
 ## CI/CD
 
-GitHub training lab provides a course, which is not in the learning path, on [Continuous Integration (CI) and Continuous Deployment (CD)](https://lab.github.com/githubtraining/continuous-integration-with-travis-ci).
+GitHub training lab provides a course, on [Continuous Integration (CI) and Continuous Deployment (CD)](https://lab.github.com/githubtraining/continuous-integration-with-travis-ci).
 This course helps setup the tool to ensure quality software development. 
 
 
@@ -111,6 +111,7 @@ This course would benefit the **team researchers** and **team leads**. Since it 
   - enables protected branches
   - automate validations within the project
 
+Note: This course is more complex but it is recommended that everyone takes it. 
 
 
 ## Summary
