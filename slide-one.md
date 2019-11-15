@@ -1,8 +1,8 @@
-## GitHub Training Evaluation
+# GitHub Training Evaluation
 
 This is a review of GitHub Training from [GitHub's Learning Lab](https://lab.github.com/githubtraining/paths).
 
-
+---
 
 ## Purpose
 
@@ -12,12 +12,13 @@ These questions will be answered:
   - Time to complete each learning path
   - Match course to team member
 
-
+---
 
 ## Learning Paths
 
 GitHub's Learning Lab has two paths to teach the workflow process of GitHub.
 
+--
 
 ### First Path
 
@@ -27,6 +28,7 @@ The **First day of GitHub** takes 1.5 hours to complete. Teaches basics of GitHu
   - issues
   - pull requests
 
+--
 
 ### Second Path
 
@@ -36,8 +38,7 @@ The **First day of GitHub** takes 1.5 hours to complete. Teaches basics of GitHu
   - reviewing pull requests 
   - securing your workflows
 
-
-
+---
 
 ## The Team
 
@@ -51,11 +52,11 @@ Instead of following a learning path, members should focus on assigned courses.
 | Team Lead | ✔ | ✔ | ✔ | ✔ |  | ✔ |  | ✔ | ✔ | ✔ | ✔ |
 | Manager | ✔ | ✔ | ✔ |  |  |  |  |  |  | ✔ | ✔ |
  
- 
+--- 
  
 ## Assigned Course Breakdown
 
-
+--
 
 ### Mandatory Courses
 
@@ -66,9 +67,7 @@ For the following reasons:
   1. The videos give a clear overview of GitHub and GitHub pages. 
   2. The course is a explanation and walkthrough on GitHub basic concepts.
 
-
-
-
+--
  
 ### Team Researchers
 
@@ -79,7 +78,7 @@ Will learn :
   4. Avoids branch mistakes between collaborators
   5. Manage vulnerable dependencies and hide sensitive data
 
-
+--
 
 ### Team Lead
 
@@ -90,19 +89,20 @@ Will learn:
   4. Avoids branch mistakes between collaborators
   5. Manage vulnerable dependencies and hide sensitive data
 
-
+--
 
 ### Manager
 
 For quality insurance, managers will learn how to request reviews, review someone's code, respond to reviews and approve pull requests.
 
-
+---
 
 ## CI/CD
 
 GitHub training lab provides a course, on [Continuous Integration (CI) and Continuous Deployment (CD)](https://lab.github.com/githubtraining/continuous-integration-with-travis-ci).
 This course helps setup the tool to ensure quality software development. 
 
+--
 
 ### Who should follow this course
 This course would benefit the **team researchers** and **team leads**. Since it would help them :
@@ -113,6 +113,7 @@ This course would benefit the **team researchers** and **team leads**. Since it 
 
 Note: This course is more complex but it is recommended that everyone takes it. 
 
+---
 
 ## Summary
   - The Learning Paths take between 1.5 to 2 hours to complete.
